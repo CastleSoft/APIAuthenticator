@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/30 14:17:18.000.423,=rtl.dcp</Transaction>
+    <Transaction>2020/04/30 14:17:50.000.958,=dbrtl.dcp</Transaction>
+    <Transaction>2020/04/30 14:17:50.000.914,=bindcomp.dcp</Transaction>
+    <Transaction>2020/04/30 14:17:50.000.866,=C:\Tmp\2020-04-30-APIAuthenticator\REST.Authenticator.API.pas</Transaction>
+    <Transaction>2020/04/30 14:17:51.000.046,=CustomIPTransport.dcp</Transaction>
+    <Transaction>2020/04/30 14:17:51.000.002,=bindengine.dcp</Transaction>
+    <Transaction>2020/04/30 14:17:51.000.027,=RESTComponents.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
